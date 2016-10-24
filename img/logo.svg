@@ -1,9 +1,12 @@
 <svg width="12cm" height="4cm" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" version="1.1">
-  <text x="0" y="20" transform="rotate(30 20,40)">
+  <text x="0" y="20" transform="rotate(30 20,40)" style="font-family: Arial;
+             font-size: 24px;
+             stroke: #ffffff;
+             fill: #ffffff;">
     SnowBoard
   </text>
   <g transform="translate(700 210) rotate(-30)">
-    <rect x="0" y="0" width="400" height="200" rx="50"
+    <rect x="0" y="0" width="200" height="100" rx="50"
           fill="none" stroke="white" stroke-width="30" />
   </g>
 </svg>
