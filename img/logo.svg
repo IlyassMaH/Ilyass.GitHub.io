@@ -1,4 +1,7 @@
 <svg width="12cm" height="4cm" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" version="1.1">
-  <circle cx="600" cy="200" r="100" fill="blue" stroke="white" stroke-width="10"  />
   SnowBoarding
+  <g transform="translate(700 210) rotate(-30)">
+    <rect x="0" y="0" width="400" height="200" rx="50"
+          fill="none" stroke="white" stroke-width="30" />
+  </g>
 </svg>
